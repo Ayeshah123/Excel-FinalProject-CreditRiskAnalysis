@@ -3,7 +3,7 @@
 ## 📊 Project Overview
 This project focuses on analyzing a credit risk dataset using Microsoft Excel. The objective is to understand customer demographics, financial behavior, employment patterns, and loan characteristics to identify high-risk customers and support data-driven decision-making in credit lending.
 
-The project demonstrates an end-to-end analytics workflow including data cleaning, transformation, exploratory data analysis (EDA), and dashboard creation using advanced Excel techniques.
+The project demonstrates an end-to-end analytics workflow including data cleaning, transformation, and dashboard creation using advanced Excel techniques.
 
 ---
 
@@ -33,19 +33,6 @@ The dataset contains customer credit information including:
 - Created categorized variables using binning techniques  
 - Used lookup tables for structured classification  
 - Applied data type corrections for analysis readiness  
-
----
-
-## 📊 Analysis Approach
-
-### 1. Exploratory Data Analysis (EDA)
-- Analyzed distributions of customer demographics
-- Identified patterns in financial behavior and credit history
-- Studied relationships between variables
-
-### 2. Ad-hoc Analysis
-- Answered specific business questions related to credit risk
-- Analyzed loan behavior, employment status, and financial stability
 
 ---
 
