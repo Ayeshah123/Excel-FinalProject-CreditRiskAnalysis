@@ -68,3 +68,8 @@ This project demonstrates how Excel can be used for complete credit risk analysi
 
 ## 👩‍💻 Author
 Ayesha Batool
+
+# 🤝 Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/ayesha-analyst/)
+- [Email](mailto:ayesha.batool.career@gmail.com)
